@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CarClassLibrary\bin\Debug\net5.0\CarClassLibrary.deps.json
+C:\Users\User\source\repos\CarClassLibrary\bin\Debug\net5.0\CarClassLibrary.dll
+C:\Users\User\source\repos\CarClassLibrary\bin\Debug\net5.0\ref\CarClassLibrary.dll
+C:\Users\User\source\repos\CarClassLibrary\bin\Debug\net5.0\CarClassLibrary.pdb
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.dll
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\ref\CarClassLibrary.dll
+C:\Users\User\source\repos\CarClassLibrary\obj\Debug\net5.0\CarClassLibrary.pdb
